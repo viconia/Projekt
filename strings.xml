@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Projekt</string>
+    <string name="quit">Quit</string>
+    <string name="new_game">New Game</string>
+    <string name="novice_game">Novice</string>
+    <string name="medium_game">"Medium 3 colors"</string>
+    <string name="medium2_game">"Medium 4 colors"</string>
+    <string name="game_over">Game over</string>
+    <string name="new_record">New top score!</string>
+    <string name="selection">"Selection: "</string>
+    <string name="top">"Top: "</string>
+    <string name="score">"Score: "</string>
+    
+
+</resources>
